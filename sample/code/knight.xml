@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!-- yveltal.xml -->
+<y:Y xmlns:y="http://www.yveltal.me/2013/xy">
+    <y:Link>
+    <![CDATA[
+        knight
+    ]]>
+    </y:Link>
+    <y:X x="fine, light"/>
+</y:Y>

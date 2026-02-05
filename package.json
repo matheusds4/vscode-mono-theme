@@ -1,0 +1,41 @@
+{
+  "name": "mono-theme",
+  "displayName": "Mono Theme",
+  "description": "A mostly monochrome theme for Visual Studio Code.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.108.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "res/icon-plus-background.png",
+  "galleryBanner": {
+    "color": "#fff",
+    "theme": "light"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mono Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark.json"
+      },
+      {
+        "label": "Mono Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/light.json"
+      }
+    ]
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/matheusds4/vscode-mono-theme",
+  "bugs": {
+    "url": "https://github.com/matheusds4/vscode-mono-theme/issues",
+    "email": "sean@contoso.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matheusds4/vscode-mono-theme.git"
+  }
+}
