@@ -37,5 +37,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/matheusds4/vscode-mono-theme.git"
+  },
+  "author": {
+    "name": "Matheus Dias de Souza",
+    "email": "hydroperfox@gmail.com",
+    "url": "https://github.com/matheusds4"
   }
 }
